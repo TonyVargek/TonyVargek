@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TonyVargek
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning C# Windows Forms
+- 🌱 I’m currently mastering Flutter & Asp.NET core
 - 📫 How to reach me vargektony@gmail.com
 
 <!---
