@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @TonyVargek
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently mastering Flutter & Asp.NET core
-- 📫 How to reach me vargektony@gmail.com
 
 <!---
 TonyVargek/TonyVargek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
